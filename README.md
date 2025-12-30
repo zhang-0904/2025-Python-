@@ -9,6 +9,7 @@
 
 复现说明：
 确认使用的包是否齐全
+解压 Transformer_DB.7z 文件为 Transformer_DB
 将 Transformer_DB.db 放到代码文件对应的文件夹下方
 打开 notebook，确认数据库路径变量指向正确位置（常见写法如：DB_PATH = "Transformer_DB.db"）。
 运行代码文件即可　Kernel → Restart & Run All
